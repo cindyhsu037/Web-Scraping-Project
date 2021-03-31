@@ -1,4 +1,4 @@
-# Webscrapingproject
+# Web scraping project
 
 Scraping website:https://www.gofundme.com/
 
