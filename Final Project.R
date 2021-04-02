@@ -1,7 +1,3 @@
-# MGMT 590: Web Data Analytics Final Project
-# By Mengwei Li
-# Date: 12/03/2020
-
 library(ggplot2)
 
 m1 <- read.csv("C:\\Users\\wendy\\OneDrive - purdue.edu\\Purdue University\\2nd Module\\Web data analytics 59000-011\\cleaned data.csv", sep=",", header=T); # data is loaded to a frame named gmapps
